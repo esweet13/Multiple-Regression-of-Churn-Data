@@ -1,4 +1,4 @@
-# Multiple-Regression-of-Churn-Data
+# Multiple-Regression-on-Churn-Data
 
 INTRODUCTION
 
